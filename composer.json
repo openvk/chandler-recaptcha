@@ -1,0 +1,16 @@
+{
+    "name": "openvk/chandler-ext-recaptcha",
+    "description": "ReCAPTCHAv2 chandler extension",
+    "type": "library",
+    "require": {
+        "google/recaptcha": "^1.2"
+    },
+    "license": "ISC",
+    "authors": [
+        {
+            "name": "Celestina Neonova",
+            "email": "kitsuruko@gmail.com"
+        }
+    ],
+    "minimum-stability": "RC"
+}

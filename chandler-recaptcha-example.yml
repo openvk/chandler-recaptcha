@@ -1,0 +1,6 @@
+chandler-recaptcha:
+    active: false
+    
+    publicKey: ""
+    privateKey: ""
+    lightTheme: false

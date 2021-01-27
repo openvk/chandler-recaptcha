@@ -1,0 +1,6 @@
+name: "ReCaptcha"
+description: "ReCaptcha for libchandler apps"
+author: "OpenVK contributors"
+version: "0.0.1-alpha"
+
+init: "bootstrap.php"
